@@ -57,4 +57,4 @@ There are three pairs of socks.
 ## Notes for Solution:
 
 ### Important Detail: 
-- Through the for loop used in the solution, it is necessary to decrease the index to iterate each time an element is deleted through "splice".
+- Through the for loop used in the solution, it is necessary to decrease the index to iterate each time an element is deleted by "splice".
